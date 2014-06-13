@@ -6,7 +6,7 @@ This is the documentation for Nightingale. Click any option on the left to be ta
 Quick Start Guide
 -----------------
 
-### Adding Students and Staff
+### Adding Students, Staff and Classrooms
 First we need to add students and staff to the program. You should be able to see these three icons on the left as their navigation bar.
 
 <img src='/navbar.png' height='400' style='float:left; padding-right: 20px; padding-bottom: 20px;'>
