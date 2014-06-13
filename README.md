@@ -9,6 +9,10 @@ For example this is where Andrew would put the getting started screen.
 
 You can put some images into here and give the first steps.
 
+Here is an image! 
+
+![adding a tracker](/student_profile.png)
+
 ### Adding Trackers
 
 Let's say now we have a subheader where we want to say how adding trackers works. This is where we would put it.
