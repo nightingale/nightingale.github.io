@@ -3,6 +3,8 @@ Nightingale Documentation
 
 This is the documentation for Nightingale. Click any option on the left to be taken to that section
 
+Email hello@nightingaleapp.com with any questions 
+
 Quick Start Guide
 -----------------
 
