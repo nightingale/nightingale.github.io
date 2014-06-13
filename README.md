@@ -11,7 +11,7 @@ First we need to add students and staff to the program. You should be able to se
 
 <img src='/navbar.png' height='400' style='float:left; padding-right: 20px; padding-bottom: 20px;'>
 
-<p style="margin-top: 20px;">The top icon stands for students, the middle one for staff, and the bottom one for classrooms</p>
+<p style="margin-top: 20px;">The top icon represents  students, the middle one for staff, and the bottom one for classrooms</p>
 
 To **add a new student**, simply click on the bottom left hand corner where it says "New Staff". Fill out the student's basic information. The Classroom field is optional and we can add students to classrooms later if we'd like to. Each time you have added a student, their name should immediately appear in the left-hand navigation bar.
 
@@ -38,7 +38,7 @@ To **create a template**, click the + button to the right of the search bar. You
 + Once a template is added, it will be **displayed for every student**. These can be edited and the changes will take place for all students
 
 ### Tracking Data
-<img src="http://i.imgur.com/e1gTFIU.png" height='400' style='float:left;'>
+<img src="http://i.imgur.com/e1gTFIU.png" width='700' height='400'>
 
 + Login to the app and you will see the classrooms you belong to. Click the preferred classroom to see the students in that classroom. 
 
@@ -46,7 +46,7 @@ To **create a template**, click the + button to the right of the search bar. You
     + To begin tracking a specific goal, click on the title and you will be able to begin tracking
     + The data tracked will sync to the web interface in real-time, where you can follow along in the behavior journal
 
-<img src="http://i.imgur.com/JgT4Yhl.png" height='400' style='float:left;'>
+<img src="http://i.imgur.com/JgT4Yhl.png" width='700' height='400'>
 
 
 Features
