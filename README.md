@@ -1,4 +1,4 @@
-nightingale.github.io
+Nightingale Documentation
 =====================
 
-This is the documentation for Nightingale. Testing out FlatDoc.
+This is the documentation for Nightingale. The left side is the navigation.
