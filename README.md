@@ -11,7 +11,7 @@ First we need to add students and staff to the program. You should be able to se
 
 <img src='/navbar.png' height='400' style='float:left; padding-right: 20px; padding-bottom: 20px;'>
 
-<p style="margin-top: 20px;">The top icon stands for students, the middle one for staff, and the bottom one for classrooms. In order to add students to your program, make sure you have selected the student icon. </p>
+<p style="margin-top: 20px;">The top icon stands for students, the middle one for staff, and the bottom one for classrooms</p>
 
 To **add a new student**, simply click on the bottom left hand corner where it says "New Staff". Fill out the student's basic information. The Classroom field is optional and we can add students to classrooms later if we'd like to. Each time you have added a student, their name should immediately appear in the left-hand navigation bar.
 
