@@ -66,4 +66,11 @@ The **Student Journal** is a news feed that provides real-time updates with the 
 
 Every goal tracked on your phone **provides real-time updates** to the journal which allows others, such as the clinical director to follow along the session and see the goals worked on in real-time 
 
+### Permissions
+
+Members can have **full access** (read/track/write), **partial access** (read/track), or **read-only** (read)
+
+    * Full access is provided to members who will create the goals as well as track them  
+    * Give partial access to members who are just tracking the data but not inputting the trackers and templates 
+    * Read-only access is for members that would like to see the data being tracked of their loved ones but do not have capability to edit and track themselves. 
 
