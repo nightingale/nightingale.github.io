@@ -22,12 +22,12 @@ To ** add a new classroom **, simply click on the classroom icon from the naviga
 
 ### Adding Trackers
 <img src='/student_profile.png' width='700' style='float:left;'>
-<hr>
 
 To **add a tracker**, first click the + button to the right of trackers. All of your templates will appear on the left side with your phone on the right. 
 
-* To create a new tracker, drag the icon of your choice onto the phone.
-    *  The display will appear on the phone as it will look on your mobile device. Be sure to drop the image where you want it to display.
++ To create a new tracker, drag the icon of your choice onto the phone.
+    +  The display will appear on the phone as it will look on your mobile device. Be sure to drop the image where you want it to display.
+    +  Once a tracker is saved, it will appear on the students profile, where you can see a list of all the trackers created for that student.
 
 
 
