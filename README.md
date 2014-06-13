@@ -11,7 +11,7 @@ You can put some images into here and give the first steps.
 
 Here is an image! 
 
-![adding a tracker](/student_profile.png)
+<img src='/student_profile.png' width='700'>
 
 ### Adding Trackers
 
