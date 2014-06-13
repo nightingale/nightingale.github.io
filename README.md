@@ -45,10 +45,14 @@ To **create a template**, click the + button to the right of the search bar. You
 
 + Click on a student to access their goals and trackers
     + To begin tracking a specific goal, click on the title and you will be able to begin tracking
-    + The data tracked will sync to the web interface in real-time, where you can follow along in the behavior journal
+    + The data tracked will sync to the web interface in real-time, where you can follow along in the student's journal
 
 Features
 -----------------
 
-### Behavior Journal
+### Student Journal
+The **journal** is a news feed that provides real-time updates with the students progress. 
+
+Every goal tracked on your phone **provides real-time updates** to the journal which allows others, such as the clinical director to follow along the session and see the goals worked on in real-time 
+
 
