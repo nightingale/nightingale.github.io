@@ -13,8 +13,10 @@ First we need to add students and staff to the program. You should be able to se
 
 The top icon stands for students, the middle one for staff, and the bottom one for classrooms. In order to add students to your program, make sure you have selected the student icon.
 
+To **add a new student**, simply click on the bottom left hand corner and fill out the students basic information.
 
-<img src='/student_profile.png' width='700'>
+
+<img src='/student_profile.png' width='700' style='float:left;'>
 
 ### Adding Trackers
 
