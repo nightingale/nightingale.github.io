@@ -13,7 +13,9 @@ First we need to add students and staff to the program. You should be able to se
 
 <p style="margin-top: 20px;">The top icon stands for students, the middle one for staff, and the bottom one for classrooms. In order to add students to your program, make sure you have selected the student icon. </p>
 
-To **add a new student**, simply click on the bottom left hand corner and fill out the students basic information.
+To **add a new student**, simply click on the bottom left hand corner where it says "New Staff". Fill out the student's basic information. The Classroom field is optional and we can add students to classrooms later if we'd like to. Each time you have added a student, their name should immediately appear in the left-hand navigation bar.
+
+To **add a new staff member**, simply click on the staff icon from the navigation bar and then click on the bottom left hand corner where it says "New Staff". Fill out the staff member's basic information and then they will be sent an email to sign up for their account.
 
 
 <img src='/student_profile.png' width='700' style='float:left;'>
