@@ -3,7 +3,7 @@ Nightingale Documentation
 
 This is the documentation for Nightingale. Click any option on the left to be taken to that section
 
-Email hello@nightingaleapp.com with any questions 
+**Email hello@nightingaleapp.com with any questions** 
 
 Quick Start Guide
 -----------------
@@ -61,7 +61,6 @@ Once you add a classroom, you can add the different subjects, staff, and student
 **Adding an event in the classroom**
 
 Click and hold a certain time and drag the cursor to the desired time of your choice. A popup will appear to add the subject at that corresponding time in addition to allowing you to edit the time of the event
-
 
 ### Student Journal
 The **Student Journal** is a news feed that provides real-time updates with the students progress. 
