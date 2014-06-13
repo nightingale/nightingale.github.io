@@ -23,7 +23,7 @@ To ** add a new classroom **, simply click on the classroom icon from the naviga
 ### Adding Trackers
 <img src='/student_profile.png' width='700' style='float:left;'>
 
-<br>
+<hr>
 To **add a tracker**, first click the + button to the right of trackers. All of your templates will appear on the left side with your phone on the right. 
 
 + To **create a new tracker**, drag the icon of your choice onto the phone.
@@ -32,5 +32,10 @@ To **add a tracker**, first click the + button to the right of trackers. All of 
 
 
 ### Creating Templates
+<img src="http://i.imgur.com/aynEweh.png" width='700' style='float:left;'>
+To ***create a template***, first click the + button to the right of the search bar. You can then create a template in the same manner you created a tracker by dragging your preferred icons onto the phone
 
++ Enter the template name and description to the right of the phone and then save your template.
++ Once a template is added, it will be displayed for every student. These can be edited and the changes will take place for all students
 
+### Tracking Data
