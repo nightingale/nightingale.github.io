@@ -51,7 +51,7 @@ Features
 -----------------
 
 ### Student Journal
-The **journal** is a news feed that provides real-time updates with the students progress. 
+The **Student Journal** is a news feed that provides real-time updates with the students progress. 
 
 Every goal tracked on your phone **provides real-time updates** to the journal which allows others, such as the clinical director to follow along the session and see the goals worked on in real-time 
 
