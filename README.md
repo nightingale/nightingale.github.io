@@ -38,7 +38,7 @@ To **create a template**, click the + button to the right of the search bar. You
 + Once a template is added, it will be **displayed for every student**. These can be edited and the changes will take place for all students
 
 ### Tracking Data
-<img src="http://i.imgur.com/e1gTFIU.png" width='700' height='400'>
+<img src="http://i.imgur.com/e1gTFIU.png">
 
 + Login to the app and you will see the classrooms you belong to. Click the preferred classroom to see the students in that classroom. 
 
@@ -46,7 +46,7 @@ To **create a template**, click the + button to the right of the search bar. You
     + To begin tracking a specific goal, click on the title and you will be able to begin tracking
     + The data tracked will sync to the web interface in real-time, where you can follow along in the behavior journal
 
-<img src="http://i.imgur.com/JgT4Yhl.png" width='700' height='400'>
+<img src="http://i.imgur.com/JgT4Yhl.png">
 
 
 Features
