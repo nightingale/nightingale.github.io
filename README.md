@@ -70,7 +70,7 @@ Every goal tracked on your phone **provides real-time updates** to the journal w
 
 Members can have **full access** (read/track/write), **partial access** (read/track), or **read-only** (read)
 
-    * Full access is provided to members who will create the goals as well as track them  
-    * Give partial access to members who are just tracking the data but not inputting the trackers and templates 
-    * Read-only access is for members that would like to see the data being tracked of their loved ones but do not have capability to edit and track themselves. 
+    + **Full access** is provided to members who will create the goals as well as track them  
+    + **Give partial** access to members who are just tracking the data but not inputting the trackers and templates 
+    + **Read-only access** is for members that would like to see the data being tracked of their loved ones but do not have capability to edit and track themselves. 
 
