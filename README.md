@@ -38,8 +38,8 @@ To **create a template**, click the + button to the right of the search bar. You
 + Once a template is added, it will be **displayed for every student**. These can be edited and the changes will take place for all students
 
 ### Tracking Data
-<img src="http://i.imgur.com/e1gTFIU.png" style='float:left;'>
-<img src="http://i.imgur.com/JgT4Yhl.png" style='float:right;'>
+<img src="http://i.imgur.com/e1gTFIU.png">
+<img src="http://i.imgur.com/JgT4Yhl.png">
 
 + Login to the app and you will see the classrooms you belong to. Click the preferred classroom to see the students in that classroom. 
 
