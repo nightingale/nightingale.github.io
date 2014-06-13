@@ -1,7 +1,7 @@
 Nightingale Documentation
 =========================
 
-This is the documentation for Nightingale. The left side is the navigation.
+This is the documentation for Nightingale. Click any option on the left to be taken to that section
 
 Quick Start Guide
 -----------------
@@ -17,7 +17,7 @@ To **add a new student**, simply click on the bottom left hand corner where it s
 
 To **add a new staff member**, simply click on the staff icon from the navigation bar and then click on the bottom left hand corner where it says "New Staff". Fill out the staff member's basic information and then they will be sent an email to sign up for their account.
 
-To ** add a new classroom **, simply click on the classroom icon from the navigation bar and then click on the bottom left hand corner where it says "New Classroom". Fill out the classroom name, click save and it will appear in the tab to the left. By clicking on that classroom, you will then have the ability to add subjects, therapists, and students to the classroom by clicking the + button to the right of each one.
+To ** add a new classroom **, simply click on the classroom icon from the navigation bar and then click on the bottom left hand corner where it says "New Classroom". Fill out the classroom name, click save and it will appear in the tab to the left.
 
 <br>
 ### Adding Trackers
@@ -49,6 +49,16 @@ To **create a template**, click the + button to the right of the search bar. You
 
 Features
 -----------------
+
+### Classroom Management
+Classrooms are used to manage the overview of your program by seeing what is occurring at each location. Manage which therapists are with which students along with the goals they are working on
+
+Once you add a classroom, you can add the different subjects, staff, and students that will be present in the classroom over time by clicking the + icons next to those options
+
+**Adding an event in the classroom**
+
+Click and hold a certain time and drag the cursor to the desired time of your choice. A popup will appear to add the subject at that corresponding time in addition to allowing you to edit the time of the event
+
 
 ### Student Journal
 The **Student Journal** is a news feed that provides real-time updates with the students progress. 
