@@ -3,13 +3,16 @@ Nightingale Documentation
 
 This is the documentation for Nightingale. The left side is the navigation.
 
-Getting started
----------------
-For example this is where Andrew would put the getting started screen.
+Quick Start Guide
+-----------------
 
-You can put some images into here and give the first steps.
+### Adding Students and Staff
+First we need to add students and staff to the program. You should be able to see these three icons on the left as their navigation bar.
 
-Here is an image! 
+<img src='/navbar.png' height='400'>
+
+The top icon stands for students, the middle one for staff, and the bottom one for classrooms. In order to add students to your program, make sure you have selected the student icon.
+
 
 <img src='/student_profile.png' width='700'>
 
