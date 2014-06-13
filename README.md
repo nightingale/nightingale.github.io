@@ -51,7 +51,7 @@ Features
 -----------------
 
 ### Classroom Management
-<img src="http://i.imgur.com/80v9rsY.png" style='float:left;'>
+<img src="http://i.imgur.com/80v9rsY.png" width='700' style='float:left;'>
 Classrooms are used to manage the overview of your program by seeing what is occurring at each location. Manage which therapists are with which students along with the goals they are working on
 
 Once you add a classroom, you can add the different subjects, staff, and students that will be present in the classroom over time by clicking the + icons next to those options
