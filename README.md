@@ -17,10 +17,9 @@ To **add a new student**, simply click on the bottom left hand corner where it s
 
 To **add a new staff member**, simply click on the staff icon from the navigation bar and then click on the bottom left hand corner where it says "New Staff". Fill out the staff member's basic information and then they will be sent an email to sign up for their account.
 
-To ** add a new classroom **, simply click on the classroom icon from the navigation bar and then click on the bottom left hand corner where it says "New Classroom". Fill out the classroom name, click save and it will appear in the tab to the left.
+To **add a new classroom**, simply click on the classroom icon from the navigation bar and then click on the bottom left hand corner where it says "New Classroom". Fill out the classroom name, click save and it will appear in the tab to the left.
 
 <br>
-
 ### Adding Trackers
 <img src='/student_profile.png' width='700' style='float:left;'>
 
