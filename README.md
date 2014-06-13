@@ -19,7 +19,6 @@ To **add a new staff member**, simply click on the staff icon from the navigatio
 
 To **add a new classroom**, simply click on the classroom icon from the navigation bar and then click on the bottom left hand corner where it says "New Classroom". Fill out the classroom name, click save and it will appear in the tab to the left.
 
-<br>
 ### Adding Trackers
 <img src='/student_profile.png' width='700' style='float:left;'>
 
@@ -28,7 +27,6 @@ To **add a tracker**, click the + button to the right of trackers. All of your t
 + To **create a new tracker**, drag the icon of your choice onto the phone.
     +  The display will appear on the phone as it will look on your mobile device. Be sure to drop the image where you want it to display.
     +  Once a tracker is saved, it will appear on the students profile, where you can see a list of all the trackers created for that student.
-
 
 ### Creating Templates
 <img src="http://i.imgur.com/aynEweh.png" width='700' style='float:left;'>
