@@ -31,7 +31,7 @@ To **add a tracker**, click the + button to the right of trackers. All of your t
     +  Once a tracker is saved, it will appear on the students profile, where you can see a list of all the trackers created for that student.
 
 ### Creating Templates
-<img src="http://i.imgur.com/aynEweh.png" width='700' style='float:left;'>
+<img src="http://i.imgur.com/aynEweh.png" width='700' style='float:left; padding-bottom: 20px;'>
 
 To **create a template**, click the + button to the right of the search bar. You can then create a template in the same manner you created a tracker by dragging your preferred icons onto the phone display.
 
@@ -52,7 +52,7 @@ Features
 -----------------
 
 ### Classroom Management
-<img src="http://i.imgur.com/80v9rsY.png" width='700' style='float:left;'>
+<img src="http://i.imgur.com/80v9rsY.png" width='700' style='float:left; padding-bottom: 20px;'>
 
 Classrooms are used to manage the overview of your program by seeing what is occurring at each location. Manage which therapists are with which students along with the goals they are working on
 
