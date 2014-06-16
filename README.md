@@ -84,11 +84,13 @@ Example Trackers
 <img src="http://i.imgur.com/xpG9NzZ.png">
 
 Set-up instructions 
-* Drag trial tracker onto the mobile display. Below the start trial, drag and drop the counter tracker
+
++ Drag trial tracker onto the mobile display. Below the start trial, drag and drop the counter tracker
 
 Tracking Instructions
-* Input the length of time for the trial
-* Start the trial. Each time the behavior occurs, click submit and the counter will increase by 1
+
++ Input the length of time for the trial
++ Start the trial. Each time the behavior occurs, click submit and the counter will increase by 1
 
 ### Interval Trials
 *Trial + Interval*
@@ -96,11 +98,61 @@ Tracking Instructions
 <img src="http://i.imgur.com/qOJ3sHu.png">
 
 Set-up instructions
-* Drag trial tracker onto mobile display. After doing this, drag the interval tracker above the submit button but below start trial
+
++ Drag trial tracker onto mobile display. After doing this, drag the interval tracker above the submit button but below start trial
 
 Tracking instructions
-* Click to the right of (mins) and input the length of the trial
-* Edit the length of the intervals in minutes or seconds
-* Once these steps are completed, click start trial to begin and the trail will start with the first highlighted interval in which you can click + or - if the behavior occurs.
+
++ Click to the right of (mins) and input the length of the trial
++ Edit the length of the intervals in minutes or seconds
++ Once these steps are completed, click start trial to begin and the trail will start with the first highlighted interval in which you can click + or - if the behavior occurs.
+
+### Behavior Points 
+*Options + Notes*
+
+<img src="http://i.imgur.com/qjgPlmL.png">
+
+Set-up instructions
+
++ Drag notes onto the phone display
++ Drag 4 option forms onto the display
++ Edit the option name along with the options below to number amounts
++ If you would like a sum of the data at the end of the day, choose the submit reset so that your options are blank after each submit. If you want to continue to change the points given, choose a single form
+
+Tracking Instructions
+
+* To track the points, click the numbers and to save the data, click submit.
+* Add notes when you desire.
+
+### Imitation
+*Options + Notes*
+
+<img src="http://i.imgur.com/2m5Xarx.png">
+<img src="http://i.imgur.com/tk4mmL4.png">
+
+Set-up Instructions
+
++  Drag 3 option forms to mobile display
++ Edit option name and change the options to +, - , and prompt
++ Drag notes form below the submit button
+
+Tracking Instructions 
+
++ As behaviors are tracked, click the option of your choice. Whenever you want to write notes, simply click in the notepad and begin typing. Data will be saved once you click submit
+
+### Tracking Duration
+*Duration*
+
+<img src="http://i.imgur.com/LdIU4z8.png">
+
+Set-up instructions  
+
++ Drag duration timer onto mobile display
+
+Tracking Instructions 
+
++ Start timer when behavior occurs. When you stop the timer, the duration below the timer will display the length of the most recent occurrence
+
+
 
 
