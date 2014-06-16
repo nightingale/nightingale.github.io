@@ -78,15 +78,26 @@ Members can have **full access** (read/track/write), **partial access** (read/tr
 Example Trackers
 -----------------
 
-### Basic Counter - *Trial + Counter*
-<img src="http://i.imgur.com/xpG9NzZ.png" width='700' style='float:left; padding-bottom: 20px;'>
+### Basic Counter
+*Trial + Counter*
+<img src="http://i.imgur.com/xpG9NzZ.png" width='700' height='400' style='float:left; padding-bottom: 20px;'>
 Set-up instructions 
-
 * Drag trial tracker onto the mobile display. Below the start trial, drag and drop the counter tracker
 
 Tracking Instructions
-
 * Input the length of time for the trial
 * Start the trial. Each time the behavior occurs, click submit and the counter will increase by 1
+
+### Interval Trials
+*Trial + Interval*
+<img src="http://i.imgur.com/qOJ3sHu.png" width='700' height='400' style='float:left; padding-bottom: 20px;'>
+
+Set-up instructions
+* Drag trial tracker onto mobile display. After doing this, drag the interval tracker above the submit button but below start trial
+
+Tracking instructions
+* Click to the right of (mins) and input the length of the trial
+* Edit the length of the intervals in minutes or seconds
+* Once these steps are completed, click start trial to begin and the trail will start with the first highlighted interval in which you can click + or - if the behavior occurs.
 
 
