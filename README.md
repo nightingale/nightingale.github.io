@@ -75,3 +75,18 @@ Members can have **full access** (read/track/write), **partial access** (read/tr
 + **Give partial** access to members who are just tracking the data but not inputting the trackers and templates 
 + **Read-only access** is for members that would like to see the data being tracked of their loved ones but do not have capability to edit and track themselves. 
 
+Example Trackers
+-----------------
+
+### Basic Counter - *Trial + Counter*
+<img src="http://i.imgur.com/xpG9NzZ.png" width='700' style='float:left; padding-bottom: 20px;'>
+Set-up instructions 
+
+* Drag trial tracker onto the mobile display. Below the start trial, drag and drop the counter tracker
+
+Tracking Instructions
+
+* Input the length of time for the trial
+* Start the trial. Each time the behavior occurs, click submit and the counter will increase by 1
+
+
