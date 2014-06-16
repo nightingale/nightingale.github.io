@@ -80,7 +80,9 @@ Example Trackers
 
 ### Basic Counter
 *Trial + Counter*
-<img src="http://i.imgur.com/xpG9NzZ.png" width='700' height='400' style='float:left; padding-bottom: 20px;'>
+
+<img src="http://i.imgur.com/xpG9NzZ.png">
+
 Set-up instructions 
 * Drag trial tracker onto the mobile display. Below the start trial, drag and drop the counter tracker
 
@@ -90,7 +92,8 @@ Tracking Instructions
 
 ### Interval Trials
 *Trial + Interval*
-<img src="http://i.imgur.com/qOJ3sHu.png" width='700' height='400' style='float:left; padding-bottom: 20px;'>
+
+<img src="http://i.imgur.com/qOJ3sHu.png">
 
 Set-up instructions
 * Drag trial tracker onto mobile display. After doing this, drag the interval tracker above the submit button but below start trial
