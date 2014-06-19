@@ -62,8 +62,8 @@ Once you add a classroom, you can add the different subjects, staff, and student
 
 Click and hold a certain time and drag the cursor to the desired time of your choice. A popup will appear to add the subject at that corresponding time in addition to allowing you to edit the time of the event
 
-### Student Journal
-The **Student Journal** is a news feed that provides real-time updates with the students progress. 
+### Behavioral Journal
+The **Behavioral Journal** is a news feed that provides real-time updates with the students progress. 
 
 Every goal tracked on your phone **provides real-time updates** to the journal which allows others, such as the clinical director to follow along the session and see the goals worked on in real-time 
 
