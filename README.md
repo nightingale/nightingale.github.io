@@ -96,6 +96,7 @@ Tracking Instructions
 *Trial + Interval*
 
 <img src="http://i.imgur.com/qOJ3sHu.png" height='50%' width='50%'>
+
 Set-up instructions
 
 + Drag trial tracker onto mobile display. After doing this, drag the interval tracker above the submit button but below start trial
@@ -110,6 +111,7 @@ Tracking instructions
 *Options + Notes*
 
 <img src="http://i.imgur.com/qjgPlmL.png" height='50%' width='50%'>
+
 Set-up instructions
 
 + Drag notes onto the phone display
@@ -125,8 +127,8 @@ Tracking Instructions
 ### Imitation
 *Options + Notes*
 
-<img src="http://i.imgur.com/2m5Xarx.png">
-<img src="http://i.imgur.com/tk4mmL4.png">
+<img src="http://i.imgur.com/2m5Xarx.png"height='50%' width='50%'>
+<img src="http://i.imgur.com/tk4mmL4.png" height='50%' width='50%'>
 
 Set-up Instructions
 
@@ -142,6 +144,7 @@ Tracking Instructions
 *Duration*
 
 <img src="http://i.imgur.com/LdIU4z8.png" height='50%' width='50%'>
+
 Set-up instructions  
 
 + Drag duration timer onto mobile display
