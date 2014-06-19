@@ -81,7 +81,7 @@ Example Trackers
 ### Basic Counter
 *Trial + Counter*
 
-<img src="http://i.imgur.com/xpG9NzZ.png">
+<img src="http://i.imgur.com/xpG9NzZ.png" height='50%' width='50%'>
 
 Set-up instructions 
 
