@@ -81,7 +81,7 @@ Example Trackers
 ### Basic Counter
 *Trial + Counter*
 
-<img src="http://i.imgur.com/xpG9NzZ.png" height='50%' width='50%'>
+<img src="http://i.imgur.com/xpG9NzZ.png" height='400'>
 
 Set-up instructions 
 
@@ -95,7 +95,7 @@ Tracking Instructions
 ### Interval Trials
 *Trial + Interval*
 
-<img src="http://i.imgur.com/qOJ3sHu.png" height='50%' width='50%'>
+<img src="http://i.imgur.com/qOJ3sHu.png" height='400'>
 
 Set-up instructions
 
@@ -110,7 +110,7 @@ Tracking instructions
 ### Behavior Points 
 *Options + Notes*
 
-<img src="http://i.imgur.com/qjgPlmL.png" height='50%' width='50%'>
+<img src="http://i.imgur.com/qjgPlmL.png" height='400'>
 
 Set-up instructions
 
@@ -127,8 +127,8 @@ Tracking Instructions
 ### Imitation
 *Options + Notes*
 
-<img src="http://i.imgur.com/2m5Xarx.png"height='50%' width='50%'>
-<img src="http://i.imgur.com/tk4mmL4.png" height='50%' width='50%'>
+<img src="http://i.imgur.com/2m5Xarx.png" height='400'>
+<img src="http://i.imgur.com/tk4mmL4.png" height='400'>
 
 Set-up Instructions
 
@@ -143,7 +143,7 @@ Tracking Instructions
 ### Tracking Duration
 *Duration*
 
-<img src="http://i.imgur.com/LdIU4z8.png" height='50%' width='50%'>
+<img src="http://i.imgur.com/LdIU4z8.png" height='400'>
 
 Set-up instructions  
 
