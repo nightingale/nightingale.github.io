@@ -1,25 +1,25 @@
 Nightingale Documentation
 =========================
 
-This is the documentation for Nightingale. Click any option on the left to be taken to that section
+This is the Nightingale manual. Click any option on the left to be taken to that section
 
 **Email hello@nightingaleapp.com with any questions** 
 
 Quick Start Guide
 -----------------
 
-### Adding Students, Staff and Classrooms
-First we need to add students and staff to the program. You should be able to see these three icons on the left as their navigation bar.
+### Adding Clients, Staff and Locations
+First we need to add students and staff to the program. To do this, follow these simple steps
 
-<img src='/navbar.png' height='400' style='float:left; padding-right: 20px; padding-bottom: 20px;'>
+To **add a client**, click on the + button under the clients tab. Fill out the clients information and and click create
 
-<p style="margin-top: 20px;">The top icon represents  students, the middle one for staff, and the bottom one for classrooms</p>
+To **add a staff member**, click on the + button under the staff tab. Fill out their information along with their email. We will send them an email inviting them to join your program. Once they accept your invite, they will set their password and will be a part of your program
 
-To **add a new student**, simply click on the bottom left hand corner where it says "New Staff". Fill out the student's basic information. The Classroom field is optional and we can add students to classrooms later if we'd like to. Each time you have added a student, their name should immediately appear in the left-hand navigation bar.
+To **add a location**,  click on the + button under the location tab. Fill out the name of the location and click create
 
-To **add a new staff member**, simply click on the staff icon from the navigation bar and then click on the bottom left hand corner where it says "New Staff". Fill out the staff member's basic information and then they will be sent an email to sign up for their account.
+To **add a parent**, click on the + button under the parents tab. Fill out their information along with their email. We will send them an email inviting them to join your program. Once they accept your invite, you will be able to assign their child to their profile and to share the clients data with their parents.
 
-To **add a new classroom**, simply click on the classroom icon from the navigation bar and then click on the bottom left hand corner where it says "New Classroom". Fill out the classroom name, click save and it will appear in the tab to the left.
+
 
 ### Adding Trackers
 <img src='/student_profile.png' width='700' style='float:left; padding-bottom: 20px;'>
