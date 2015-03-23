@@ -21,27 +21,24 @@ To **add a parent**, click on the + button under the parents tab. Fill out their
 
 
 
-### Adding Trackers
-<img src='/student_profile.png' width='700' style='float:left; padding-bottom: 20px;'>
+### Trackers
+<img src='/' width='700' style='float:left; padding-bottom: 20px;'>
 
-To **add a tracker**, click the + button to the right of trackers. All of your templates will appear on the left side with your phone on the right. 
+To **add a tracker**, click on a clients profile to go into their account. Click on the trackers tab in order to get to your current tracker screen. On this screen, you can click **create tracker** to begin customizing a new tracker for that client. You can also add from your program library that is on the sidebar.
 
-+ To **create a new tracker**, drag the icon of your choice onto the phone.
++ To **create a new tracker**, drag the building block of your choice onto the phone screen on the left.
     +  The display will appear on the phone as it will look on your mobile device. Be sure to drop the image where you want it to display.
-    +  Once a tracker is saved, it will appear on the students profile, where you can see a list of all the trackers created for that student.
+    +  Once a tracker is saved, it will appear on the clients tracker profile, where you can see all of their trackers along with a preview of what each will look like within the app
 
-### Creating Templates
-<img src="http://i.imgur.com/aynEweh.png" width='700' style='float:left; padding-bottom: 20px;'>
++ **add a program wide tracker to a client**, go to the clients tracker profile and click on the tracker of your choice in the sidebar and click add to client.
 
-To **create a template**, click the + button to the right of the search bar. You can then create a template in the same manner you created a tracker by dragging your preferred icons onto the phone display.
+### Creating Trackers for your program
 
-+ Enter the template name and description to the right of the phone and then save your template.
-+ Once a template is added, it will be **displayed for every student**. These can be edited and the changes will take place for all students
+To **create a template**, go to the Library top tab and click create a template. You can create a template in the same way you customize a tracker. However, these templates will be accessible to add to any client in your program whereas the tracker only belongs to a specific client. 
 
 ### Tracking Data
-<img src="http://i.imgur.com/e1gTFIU.png">
-<img src="http://i.imgur.com/JgT4Yhl.png">
-
++ Download the Nightingale app on the iOS app store or the Google Play Store
+    + If you are downloading the app on an iPad, make sure to include "iPhone apps" in your search results as well
 + Login to the app and you will see the classrooms you belong to. Click the preferred classroom to see the students in that classroom. 
 
 + Click on a student to access their goals and trackers
@@ -66,6 +63,23 @@ Click and hold a certain time and drag the cursor to the desired time of your ch
 The **Behavioral Journal** is a news feed that provides real-time updates with the students progress. 
 
 Every goal tracked on your phone **provides real-time updates** to the journal which allows others, such as the clinical director to follow along the session and see the goals worked on in real-time 
+
+
+### Timeline
+
+On each childs profile, the new tab of **timeline** will be displayed. The timeline tab will show a feed of what is occurring with that child. Example use cases such as Which therapist is currently working with the child. When did they start a session on a current day. When did the session end? Furthermore, you are able to comment on these sessions to start a discussion between therapists. Therapists can interact with one another on the timeline allowing further collaboration.
+
+Additionally, therapists have the ability to add in progress notes after sessions that can be discussed along with files pertaining to the child. These can be photos or documents that will be stored safely and securely on Nightingale.
+
+### Offline
+
+The new offline mode allows you to collect data on your mobile device even if you are not connected to the internet. Nightingale will automatically identify whether you have an internet connection as you are in session. If you do not have a connection, you will still be able to collect data and as you can see in this image, the data you are being collected will be pending to be sent to your web profile for further analysis. For every piece of data collected, the requests pending will increase. 
+
+Once your connection is rekindled and you are connected to a cell signal or wifi, the data that you have collected will upload to the cloud and you will see the requests pending decrease. All of this data will be available for the rest of your team to analyze on your Nightingale account immediately after it uploads securely to our server.
+
+### Mobile Graphs
+
+As many have requested, we have added each clients graphs to their profiles within the mobile app. If you go to the profile of a client, you will see a new bottom tab called graphs. When you click on graphs, the names of your graphs along with an icon preview will appear. You can click on a graph and it will expand to a full screen view. You can click on specific dates points to see the label for that day
 
 ### Permissions
 
