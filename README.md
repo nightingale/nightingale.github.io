@@ -39,11 +39,11 @@ To **create a template**, go to the Library top tab and click create a template.
 ### Tracking Data
 + Download the Nightingale app on the iOS app store or the Google Play Store
     + If you are downloading the app on an iPad, make sure to include "iPhone apps" in your search results as well
-+ Login to the app and you will see the classrooms you belong to. Click the preferred classroom to see the students in that classroom. 
+    + Login to the app and you will see the classrooms you belong to. Click the preferred classroom to see the students in that classroom. 
 
 + Click on a student to access their goals and trackers
     + To begin tracking a specific goal, click on the title and you will be able to begin tracking
-    + The data tracked will sync to the web interface in real-time, where you can follow along in the student's journal
+    + The data tracked will sync to the web interface in real-time, where you can follow along in the student's journal and timeline
 
 Features
 -----------------
@@ -54,6 +54,7 @@ Members can have **full access** (read/track/write), **partial access** (read/tr
 + **Full access** is provided to members who will create the goals as well as track them  
 + **Give partial** access to members who are just tracking the data but not inputting the trackers and templates 
 + **Read-only access** is for members that would like to see the data being tracked of their loved ones but do not have capability to edit and track themselves. 
++ 
 http://youtu.be/uUHkpnaZkTE
 
 ### Location Management
@@ -158,23 +159,6 @@ Tracking instructions
 + Click to the right of (mins) and input the length of the trial
 + Edit the length of the intervals in minutes or seconds
 + Once these steps are completed, click start trial to begin and the trail will start with the first highlighted interval in which you can click + or - if the behavior occurs.
-
-### Behavior Points 
-*Options + Notes*
-
-<img src="http://i.imgur.com/qjgPlmL.png" height='400'>
-
-Set-up instructions
-
-+ Drag notes onto the phone display
-+ Drag 4 option forms onto the display
-+ Edit the option name along with the options below to number amounts
-+ If you would like a sum of the data at the end of the day, choose the submit reset so that your options are blank after each submit. If you want to continue to change the points given, choose a single form
-
-Tracking Instructions
-
-* To track the points, click the numbers and to save the data, click submit.
-* Add notes when you desire.
 
 ### Imitation
 *Options + Notes*
