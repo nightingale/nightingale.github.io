@@ -47,20 +47,63 @@ To **create a template**, go to the Library top tab and click create a template.
 
 Features
 -----------------
+### Permissions
 
-### Classroom Management
+Members can have **full access** (read/track/write), **partial access** (read/track), or **read-only** (read)
+
++ **Full access** is provided to members who will create the goals as well as track them  
++ **Give partial** access to members who are just tracking the data but not inputting the trackers and templates 
++ **Read-only access** is for members that would like to see the data being tracked of their loved ones but do not have capability to edit and track themselves. 
+
+### Location Management
 <img src="http://i.imgur.com/80v9rsY.png" width='700' style='float:left; padding-bottom: 20px;'>
 
-Classrooms are used to manage the overview of your program by seeing what is occurring at each location. Manage which therapists are with which students along with the goals they are working on
+Locations are used to manage the overview of your program by seeing what is occurring at each location. Manage which therapists are with which students along with the goals they are working on
 
-Once you add a classroom, you can add the different subjects, staff, and students that will be present in the classroom over time by clicking the + icons next to those options
+Once you add a location, you can add the different subjects, staff, and students that will be present in the classroom over time by clicking the + icons next to those options
 
-**Adding an event in the classroom**
+**Adding an event in a location**
 
 Click and hold a certain time and drag the cursor to the desired time of your choice. A popup will appear to add the subject at that corresponding time in addition to allowing you to edit the time of the event
 
-### Behavioral Journal
-The **Behavioral Journal** is a news feed that provides real-time updates with the students progress. 
+### Goals
+To add a goal to a tracker, click edit on the tracker of your choice. Once on the tracker editing screen, click the goals tab. On the goals tab, click the + button to begin customizing your goal. Follow each step in order to customize what type of goal you would like to create. 
+
+Tip: You will have to create goals for trackers in order to create graphs.
+
+### Graphing Interface
+To create a graph for a client, click the graph tab on a clients profile and then create new graph
+
+To create a new graph, click **Add Tracker** on the bottom left to choose from which tracker you will be creating a graph for. After choosing the tracker, click **add goal** to choose which goal from that tracker you would like to create the graph for. 
+
+You can choose multiple goals from the same trackers to display on a graph or even goals from different trackers. 
+
+Click update preview to see what the graph will look like. If you have not collected data, the graph will appear blank. However, it was still generated.
+
+You can change between Line, Bar and scatterplot on the top left.
+
+To complete the graph set up, click create graph and the graph preview will now show up in your list of graphs.
+
+For visual guidance, watch our graphing tutorial video - https://www.youtube.com/watch?v=kQivIDSBRg0
+
+### Adding Phaselines
+On the edit screen of a graph, click edit phaseline. Choose a date too add in the phaseline and a popup will ask you for the note you would like to display for the phaseline. 
+
+Set whether you would like that phaseline to show up for all graphs of that client, all graphs for that certain tracker of a client or only that specific graph and click save.
+
+https://www.youtube.com/watch?v=v5bi-0gLy3U&feature=youtu.be
+
+### Exporting Graphs
+To export a graph, go to the edit screen and click export graph on the bottom right. This will allow you to export the data of the graph to a CSV file.
+
+### Tags
+To add a tag to a tracker, click edit on the tracker of your choice. Once on the tracker editing screen, click the goals tab. On the goals tab, click the + button to begin customizing your goal. Follow each step in order to customize what type of goal you would like to create. 
+
+### Statuses
+To add a Status to a tracker, click edit on the tracker of your choice. Once on the tracker editing screen, click the goals tab. On the goals tab, click the + button to begin customizing your goal. Follow each step in order to customize what type of goal you would like to create. 
+
+### Journal
+The **Journal** is a news feed that provides real-time updates with the students progress. 
 
 Every goal tracked on your phone **provides real-time updates** to the journal which allows others, such as the clinical director to follow along the session and see the goals worked on in real-time 
 
@@ -79,15 +122,9 @@ Once your connection is rekindled and you are connected to a cell signal or wifi
 
 ### Mobile Graphs
 
-As many have requested, we have added each clients graphs to their profiles within the mobile app. If you go to the profile of a client, you will see a new bottom tab called graphs. When you click on graphs, the names of your graphs along with an icon preview will appear. You can click on a graph and it will expand to a full screen view. You can click on specific dates points to see the label for that day
+We have added each clients graphs to their profiles within the mobile app. If you go to the profile of a client, you will see a new bottom tab called graphs. When you click on graphs, the names of your graphs along with an icon preview will appear. You can click on a graph and it will expand to a full screen view. You can click on specific dates points to see the label for that day
 
-### Permissions
-
-Members can have **full access** (read/track/write), **partial access** (read/track), or **read-only** (read)
-
-+ **Full access** is provided to members who will create the goals as well as track them  
-+ **Give partial** access to members who are just tracking the data but not inputting the trackers and templates 
-+ **Read-only access** is for members that would like to see the data being tracked of their loved ones but do not have capability to edit and track themselves. 
+### Virtual Mode
 
 Example Trackers
 -----------------
