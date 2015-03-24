@@ -67,7 +67,7 @@ Members can have **full access** (read/track/write), **partial access** (read/tr
 http://youtu.be/uUHkpnaZkTE
 
 ### Location Management
-<img src="" width='700' style='float:left; padding-bottom: 20px;'>
+<img src="http://i.imgur.com/4tkzPls.png">
 
 Locations are used to manage the overview of your program by seeing what is occurring at each location. Manage which therapists are with which students along with the goals they are working on
 
@@ -134,6 +134,8 @@ The **Journal** is a news feed that provides real-time updates with the students
 Every goal tracked on your phone **provides real-time updates** to the journal which allows others, such as the clinical director to follow along the session and see the goals worked on in real-time 
 
 ### Timeline
+
+<img src="http://i.imgur.com/UySWCO4.png">
 
 On each childs profile, the new tab of **timeline** will be displayed. The timeline tab will show a feed of what is occurring with that child. Example use cases such as Which therapist is currently working with the child. When did they start a session on a current day. When did the session end? Furthermore, you are able to comment on these sessions to start a discussion between therapists. Therapists can interact with one another on the timeline allowing further collaboration.
 
