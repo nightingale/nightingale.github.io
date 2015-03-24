@@ -9,7 +9,7 @@ Quick Start Guide
 -----------------
 
 ### Adding Clients, Staff and Locations
-First we need to add students and staff to the program. To do this, follow these simple steps
+    First we need to add clients and staff to the program. To do this, follow these steps:
 
 To **add a client**, click on the + button under the clients tab. Fill out the clients information and and click create
 
@@ -24,9 +24,17 @@ To **add a location**,  click on the + button under the location tab. Fill out t
 To **add a parent**, click on the + button under the parents tab. Fill out their information along with their email. We will send them an email inviting them to join your program. Once they accept your invite, you will be able to assign their child to their profile and to share the clients data with their parents.
 
 ### Program Library
+
 <img src="http://i.imgur.com/I9vqPcU.png">
 
+Every program will take their current data sheets that they have in binders and clipboards and will import those into their **program library** as they become digital trackers. After setting up your programs trackers, you will assign these trackers to specific clients and you can further customize the data according to the needs of each client. 
+
+To **create a template**, go to the Library top tab and click create a template. You can create a template in the same way you customize a tracker. However, these templates will be accessible to add to any client in your program whereas the tracker only belongs to a specific client. 
+
+You can also fully customize a tracker from scratch for specific clients.
+
 ### Trackers
+
 <img src="http://i.imgur.com/rW8msQI.png">
 
 To **add a tracker**, click on a clients profile to go into their account. Click on the trackers tab in order to get to your current tracker screen. On this screen, you can click **create tracker** to begin customizing a new tracker for that client. You can also add from your program library that is on the sidebar.
@@ -40,10 +48,6 @@ To **add a tracker**, click on a clients profile to go into their account. Click
 
 + **add a program wide tracker to a client**, go to the clients tracker profile and click on the tracker of your choice in the sidebar and click add to client.
 
-### Creating Trackers for your program
-
-To **create a template**, go to the Library top tab and click create a template. You can create a template in the same way you customize a tracker. However, these templates will be accessible to add to any client in your program whereas the tracker only belongs to a specific client. 
-
 ### Tracking Data
 + Download the Nightingale app on the iOS app store or the Google Play Store
     + If you are downloading the app on an iPad, make sure to include "iPhone apps" in your search results as well
@@ -56,9 +60,10 @@ To **create a template**, go to the Library top tab and click create a template.
 Features
 -----------------
 ### Permissions
+
 <img src="http://i.imgur.com/oSuDoIE.png">
 
-Members can have **full access** (read/track/write), **partial access** (read/track), or **read-only** (read)
+On a staff members profile, you can add which clients they have access to. Additionally, staff members can have **full access** (read/track/write), **partial access** (read/track), or **read-only** (read)
 
 + **Full access** is provided to members who will create the goals as well as track them  
 + **Give partial** access to members who are just tracking the data but not inputting the trackers and templates 
@@ -67,6 +72,7 @@ Members can have **full access** (read/track/write), **partial access** (read/tr
 http://youtu.be/uUHkpnaZkTE
 
 ### Location Management
+
 <img src="http://i.imgur.com/4tkzPls.png">
 
 Locations are used to manage the overview of your program by seeing what is occurring at each location. Manage which therapists are with which students along with the goals they are working on
@@ -78,6 +84,7 @@ Once you add a location, you can add the different subjects, staff, and students
 Click and hold a certain time and drag the cursor to the desired time of your choice. A popup will appear to add the subject at that corresponding time in addition to allowing you to edit the time of the event
 
 ### Goals
+
 <img src="http://i.imgur.com/QS1BLIT.png">
 
 To add a goal to a tracker, click edit on the tracker of your choice. Once on the tracker editing screen, click the goals tab. On the goals tab, click the + button to begin customizing your goal. Follow each step in order to customize what type of goal you would like to create. 
@@ -85,7 +92,9 @@ To add a goal to a tracker, click edit on the tracker of your choice. Once on th
 Tip: You will have to create goals for trackers in order to create graphs.
 
 ### Graphing Interface
+
 <img src="http://i.imgur.com/tQrECIW.png">
+
 To create a graph for a client, click the graph tab on a clients profile and then create new graph
 
 To create a new graph, click **Add Tracker** on the bottom left to choose from which tracker you will be creating a graph for. After choosing the tracker, click **add goal** to choose which goal from that tracker you would like to create the graph for. 
@@ -101,6 +110,7 @@ To complete the graph set up, click create graph and the graph preview will now 
 For visual guidance, watch our graphing tutorial video - https://www.youtube.com/watch?v=kQivIDSBRg0
 
 ### Adding Phaselines
+
 <img src="http://i.imgur.com/ttNyWcQ.png">
 
 On the edit screen of a graph, click edit phaseline. Choose a date too add in the phaseline and a popup will ask you for the note you would like to display for the phaseline. 
@@ -117,11 +127,15 @@ To export a graph, go to the edit screen and click export graph on the bottom ri
 
 <img src="http://i.imgur.com/rwMnA8y.png">
 
+To set up your programs tags, go to the settings page and add in the tags you would like to use. Once you add these tags, you will then add them to a tracker on the tracker edit screen.
+
 To add a tag to a tracker, click edit on the tracker of your choice. Once on the tracker editing screen, click the goals tab. On the goals tab, click the + button to begin customizing your goal. Follow each step in order to customize what type of goal you would like to create. 
 
 ### Statuses
 
 <img src="http://i.imgur.com/bsntFwj.png">
+
+To set up your programs statuses, go to the settings page and add in the statuses you would like to use. Once you add these statuses, you will then add them to a tracker on the tracker edit screen.
 
 To add a Status to a tracker, click edit on the tracker of your choice. Once on the tracker editing screen, click the goals tab. On the goals tab, click the + button to begin customizing your goal. Follow each step in order to customize what type of goal you would like to create. 
 
@@ -151,6 +165,8 @@ Once your connection is rekindled and you are connected to a cell signal or wifi
 
 <img src="http://i.imgur.com/H9Lv4Ve.png">
 
+In addition to seeing analysis of your goals on the web application, you can also see a day by day summary of these goals within the app
+
 ### Mobile Graphs
 
 <img src="http://i.imgur.com/PwuTp2I.png">
@@ -160,6 +176,8 @@ We have added each clients graphs to their profiles within the mobile app. If yo
 ### Virtual Mode
 
 <img src="http://i.imgur.com/gE3EBLR.png">
+
+If you want to add data that previously occurred and you did not collect, you can turn on virtual mode and choose the date and time you would like to collect data for.
 
 https://www.youtube.com/watch?v=gtJBCgsMEm0&feature=youtu.be
 
