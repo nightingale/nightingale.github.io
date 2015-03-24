@@ -54,9 +54,10 @@ Members can have **full access** (read/track/write), **partial access** (read/tr
 + **Full access** is provided to members who will create the goals as well as track them  
 + **Give partial** access to members who are just tracking the data but not inputting the trackers and templates 
 + **Read-only access** is for members that would like to see the data being tracked of their loved ones but do not have capability to edit and track themselves. 
+http://youtu.be/uUHkpnaZkTE
 
 ### Location Management
-<img src="http://i.imgur.com/80v9rsY.png" width='700' style='float:left; padding-bottom: 20px;'>
+<img src="" width='700' style='float:left; padding-bottom: 20px;'>
 
 Locations are used to manage the overview of your program by seeing what is occurring at each location. Manage which therapists are with which students along with the goals they are working on
 
@@ -107,7 +108,6 @@ The **Journal** is a news feed that provides real-time updates with the students
 
 Every goal tracked on your phone **provides real-time updates** to the journal which allows others, such as the clinical director to follow along the session and see the goals worked on in real-time 
 
-
 ### Timeline
 
 On each childs profile, the new tab of **timeline** will be displayed. The timeline tab will show a feed of what is occurring with that child. Example use cases such as Which therapist is currently working with the child. When did they start a session on a current day. When did the session end? Furthermore, you are able to comment on these sessions to start a discussion between therapists. Therapists can interact with one another on the timeline allowing further collaboration.
@@ -125,6 +125,7 @@ Once your connection is rekindled and you are connected to a cell signal or wifi
 We have added each clients graphs to their profiles within the mobile app. If you go to the profile of a client, you will see a new bottom tab called graphs. When you click on graphs, the names of your graphs along with an icon preview will appear. You can click on a graph and it will expand to a full screen view. You can click on specific dates points to see the label for that day
 
 ### Virtual Mode
+https://www.youtube.com/watch?v=gtJBCgsMEm0&feature=youtu.be
 
 Example Trackers
 -----------------
